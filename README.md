@@ -11,12 +11,12 @@
 
 ### Stephen's stored procedures
 
-- Days of the week sorted by highest grossing film
-- Famous quotes sorted by highest film budget
+- Highest grossing film grouped by the day of the week, sum the total gross as well
+- Famous quotes sorted by highest film budget group by blocks of budgets (100m - 50m, 50m - 25m etc.)
 
 ### Kevin's stored procedures
 
-- 
+- Actors where they are also a producer in more than one film
 - 
 
 ### Lindsey's stored procedures
