@@ -2,6 +2,7 @@
 
 ## TODO
 
+1. Each person add 5-10 more films and related records from IMDB
 1. Film.gross_sales
 1. Film.budget
 1. Actor.birth_date
